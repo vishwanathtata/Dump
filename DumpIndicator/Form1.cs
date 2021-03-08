@@ -12,7 +12,7 @@ namespace DumpIndicator
 {
     public partial class Form1 : Form
     {
-        //GitLast
+    //GitLast
 		public Form1()
         {
             InitializeComponent();
