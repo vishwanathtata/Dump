@@ -12,7 +12,8 @@ namespace DumpIndicator
 {
     public partial class Form1 : Form
     {
-        public Form1()
+        //hello
+		public Form1()
         {
             InitializeComponent();
         }
