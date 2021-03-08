@@ -12,7 +12,7 @@ namespace DumpIndicator
 {
     public partial class Form1 : Form
     {
-        //Jaadhu
+        //New App
 		public Form1()
         {
             InitializeComponent();
